@@ -1,16 +1,33 @@
-## Hi there 👋
+---
 
-<!--
-**Aymenelachhab/Aymenelachhab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 About Me
 
-Here are some ideas to get you started:
+```text
+👨‍💻  Student · Maker · Coffee addict
+🤖  Building projects that sit at the crossroads of artificial intelligence & embedded hardware.
+🧠  Currently exploring: Reinforcement Learning ➜ TinyML ➜ MLOps on edge devices.
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+\* Third‑year computer science student (EIDIA) passionate about data artificial intelligence .
+
+---
+
+## 🚀 Highlight Projects
+
+| Project                                                                                             | Tech Stack                            | Live Badges |
+| --------------------------------------------------------------------------------------------------- | ------------------------------------- | ----------- |
+| **[Supermarket Management System](https://github.com/AymenElAchhab/supermarket-management-system)** | `Python` · `Flask` · `MongoDB`        |             |
+| **[Slowloris DDoS Simulation](https://github.com/AymenElAchhab/slowloris-ddos-simulation)**         | `Python` · `Kali Linux` · `Wireshark` |             |
+| **[Arduino Coffee Machine](https://github.com/AymenElAchhab/arduino-coffee-machine)**               | `Arduino` · `RFID` · `Servo`          |             |
+
+|   |   |
+| - | - |
+|   |   |
+
+---
+
+## 🛠️ Toolbox & Tech I ❤️
+
+---
+
+## 📊 GitHub Stat*s*
