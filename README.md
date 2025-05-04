@@ -4,8 +4,6 @@
 
 ```text
 👨‍💻  Student · Maker · Coffee addict
-🤖  Building projects that sit at the crossroads of artificial intelligence & embedded hardware.
-🧠  Currently exploring: Reinforcement Learning ➜ TinyML ➜ MLOps on edge devices.
 ```
 
 \* Third‑year computer science student (EIDIA) passionate about data artificial intelligence .
