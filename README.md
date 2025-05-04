@@ -6,6 +6,7 @@
 
 \* Third‑year computer science student (EIDIA) passionate about data artificial intelligence .
 
+[🌐 Visit my portfolio](https://aymenelachhab.github.io/Aymenelachhab/)  
 ---
 
 ## 🚀 Highlight Projects
