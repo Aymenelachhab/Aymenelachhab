@@ -8,7 +8,6 @@
 
 \* Third‑year computer science student (EIDIA) passionate about data artificial intelligence .
 
-\* [Supermarket Management System](https://aymenelachhab.github.io/Aymenelachhab/)
 ---
 
 ## 🚀 Highlight Projects
