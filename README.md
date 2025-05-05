@@ -4,7 +4,7 @@
 👨‍💻  Student · Maker · Coffee addict
 ```
 
-\ Third‑year computer science student (EIDIA) passionate about data artificial intelligence .
+ Third‑year computer science student (EIDIA) passionate about data artificial intelligence .
 
 [🌐 Visit my portfolio](https://aymenelachhab.github.io/Aymenelachhab/)  
 ---
